@@ -1,6 +1,12 @@
 {
     "name": "hezhi/test",
     "description": "test",
+    "authors": [
+        {
+            "name": "何治",
+            "email": "hezhi@landawang.com"
+        }
+    ],
     "minimum-stability": "stable",
     "require": {}
 }
