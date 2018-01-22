@@ -6,7 +6,8 @@
             "name": "何治",
             "email": "hezhi@landawang.com"
         }
-    ],
+    ]
+    "type":         "library",,
     "minimum-stability": "stable",
     "require": {}
 }
