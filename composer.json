@@ -1,16 +1,21 @@
 {
     "name": "hezhi/test",
     "description": "test",
+    "keywords": [ "test", "laravel", "hezhi" ],
+    "type": "library",
+    "license": "Apache-2.0",
     "authors": [
         {
-            "name": "何治",
-            "email": "hezhi@landawang.com"
+            "name": "hezhi",
+            "homepage": "hdesertz@163.com"
         }
     ],
-    "type":"library",
-    "minimum-stability": "stable",
     "require": {
-        "php": ">=5.5.0",	
+        "php": ">=5.5.0"
     },
+    "require-dev": {
+        "phpunit/phpunit": "~4.0"
+    },
+    "minimum-stability": "stable",
 }
 
