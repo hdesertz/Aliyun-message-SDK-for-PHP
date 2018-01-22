@@ -1,0 +1,7 @@
+{
+    "name": "hezhi/test",
+    "description": "只是一个测试",
+    "type": "composer-plugin",
+    "minimum-stability": "dev",
+    "require": {}
+}
